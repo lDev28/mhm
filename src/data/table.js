@@ -5,34 +5,34 @@ const MHMTable = [
 		[
 			{
 				id: 1,
-				lesson: 'Filosofiýa',
+				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'umumy',
-				teacher: 'Gurbanowa Nurgözel',
-				auditory: 2406
+				teacher: 'Amanow Atanyýaz',
+				auditory: 3307
 			},
 			{
 				id: 2,
-				lesson: 'Taýýarlygyň ugry boýunça rus dili',
+				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
 				type: 'amaly',
-				teacher: 'Saparowa Jahan',
-				auditory: 2404
+				teacher: 'Amanow Söhbet',
+				auditory: 2211
 			}
 		],
 		// bottom
 		[
 			{
 				id: 1,
-				lesson: 'Filosofiýa',
+				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'umumy',
-				teacher: 'Gurbanowa Nurgözel',
-				auditory: 2406
+				teacher: 'Amanow Atanyýaz',
+				auditory: 3307
 			},
 			{
 				id: 2,
-				lesson: 'Taýýarlygyň ugry boýunça rus dili',
-				type: 'amaly',
-				teacher: 'Saparowa Jahan',
-				auditory: 2404
+				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
+				type: 'tejribe',
+				teacher: 'Amanow Atanyýaz',
+				auditory: 2202
 			}
 		],
 		'Duşenbe'
@@ -43,34 +43,34 @@ const MHMTable = [
 		[
 			{
 				id: 1,
-				lesson: 'Maglumat howpsuzlygynyň esaslary',
-				type: 'umumy',
-				teacher: 'Amanow Söhbet',
-				auditory: 3208
+				lesson: 'Taýýarlygyň ugry boýunça rus dili',
+				type: 'amaly',
+				teacher: 'Saparowa Jahan',
+				auditory: 2404
 			},
 			{
 				id: 2,
-				lesson: 'Bedenterbiýe',
+				lesson: 'Syýasaty öwreniş',
 				type: 'amaly',
-				teacher: 'Ylýasow Myrat',
-				auditory: 'Sport zal'
+				teacher: 'Gurbanowa Nurgözel',
+				auditory: 2302
 			}
 		],
 		// bottom
 		[
 			{
 				id: 1,
-				lesson: 'Maglumat howpsuzlygynyň esaslary',
-				type: 'umumy',
-				teacher: 'Amanow Söhbet',
-				auditory: 3208
+				lesson: 'Taýýarlygyň ugry boýunça rus dili',
+				type: 'amaly',
+				teacher: 'Saparowa Jahan',
+				auditory: 2404
 			},
 			{
 				id: 2,
-				lesson: 'Bedenterbiýe',
-				type: 'amaly',
-				teacher: 'Ylýasow Myrat',
-				auditory: 'Sport zal'
+				lesson: 'Syýasaty öwreniş',
+				type: 'umumy',
+				teacher: 'Gurbanowa Nurgözel',
+				auditory: 2405
 			}
 		],
 		'Sişenbe'
@@ -81,34 +81,34 @@ const MHMTable = [
 		[
 			{
 				id: 1,
-				lesson: 'Elektrotehnikanyň nazary esaslary',
-				type: 'amaly',
-				teacher: 'Amanow Atanyýaz',
-				auditory: 3302
+				lesson: 'Diskret we hasaplaýyş matematikasy',
+				type: 'umumy',
+				teacher: 'Annaberdiýew Şatlyk',
+				auditory: 2107
 			},
 			{
 				id: 2,
-				lesson: 'Programmirlemegiň dilleri we usullary',
-				type: 'umumy',
-				teacher: 'Amanow Söhbet',
-				auditory: 2408
+				lesson: 'Diskret we hasaplaýyş matematikasy',
+				type: 'amaly',
+				teacher: 'Annaberdiýew Şatlyk',
+				auditory: 2107
 			}
 		],
 		// bottom
 		[
 			{
 				id: 1,
-				lesson: 'Elektrotehnikanyň nazary esaslary',
-				type: 'amaly',
-				teacher: 'Amanow Atanyýaz',
-				auditory: 3302
+				lesson: 'Diskret we hasaplaýyş matematikasy',
+				type: 'umumy',
+				teacher: 'Annaberdiýew Şatlyk',
+				auditory: 2107
 			},
 			{
 				id: 2,
-				lesson: 'Filosofiýa',
+				lesson: 'Diskret we hasaplaýyş matematikasy',
 				type: 'amaly',
-				teacher: 'Gurbanowa Nurgözel',
-				auditory: 2211
+				teacher: 'Annaberdiýew Şatlyk',
+				auditory: 2107
 			}
 		],
 		'Çarşenbe'
@@ -119,34 +119,34 @@ const MHMTable = [
 		[
 			{
 				id: 1,
-				lesson: 'Elektrotehnikanyň nazary esaslary',
-				type: 'umumy',
-				teacher: 'Amanow Atanyýaz',
-				auditory: 3303
+				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
+				type: 'amaly',
+				teacher: 'Amanow Söhbet',
+				auditory: 2408
 			},
 			{
 				id: 2,
-				lesson: 'Ekologiýa we daşky gurşawy goramak',
-				type: 'umumy',
-				teacher: 'Çerkezow Röwşen',
-				auditory: 3101
+				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
+				type: 'tejribe',
+				teacher: 'Amanow Söhbet',
+				auditory: 2410
 			}
 		],
 		// bottom
 		[
 			{
 				id: 1,
-				lesson: 'Elektrotehnikanyň nazary esaslary',
-				type: 'umumy',
-				teacher: 'Amanow Atanyýaz',
-				auditory: 3303
+				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
+				type: 'amaly',
+				teacher: 'Amanow Söhbet',
+				auditory: 2408
 			},
 			{
 				id: 2,
-				lesson: 'Ekologiýa we daşky gurşawy goramak',
-				type: 'amaly',
-				teacher: 'Çerkezow Röwşen',
-				auditory: 3103
+				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
+				type: 'tejribe',
+				teacher: 'Amanow Söhbet',
+				auditory: 2410
 			}
 		],
 		'Penşenbe'
@@ -158,16 +158,16 @@ const MHMTable = [
 			{
 				id: 1,
 				lesson: 'Maglumat howpsuzlygynyň esaslary',
-				type: 'tejribe',
+				type: 'umumy',
 				teacher: 'Amanow Söhbet',
-				auditory: 3208
+				auditory: 2212
 			},
 			{
 				id: 2,
-				lesson: 'Taýýarlygyň ugry boýunça iňlis dili',
-				type: 'amaly',
-				teacher: 'Atajanowa Göwher',
-				auditory: 2212
+				lesson: 'Maglumat howpsuzlygynyň esaslary',
+				type: 'tejribe',
+				teacher: 'Amanow Söhbet',
+				auditory: 3108
 			}
 		],
 		// bottom
@@ -175,16 +175,16 @@ const MHMTable = [
 			{
 				id: 1,
 				lesson: 'Maglumat howpsuzlygynyň esaslary',
-				type: 'tejribe',
+				type: 'umumy',
 				teacher: 'Amanow Söhbet',
-				auditory: 3208
+				auditory: 2212
 			},
 			{
 				id: 2,
-				lesson: 'Taýýarlygyň ugry boýunça iňlis dili',
-				type: 'amaly',
-				teacher: 'Atajanowa Göwher',
-				auditory: 2212
+				lesson: 'Maglumat howpsuzlygynyň esaslary',
+				type: 'tejribe',
+				teacher: 'Amanow Söhbet',
+				auditory: 3108
 			}
 		],
 		'Anna'
@@ -195,34 +195,34 @@ const MHMTable = [
 		[
 			{
 				id: 1,
-				lesson: 'Mikroprossorly dolandyryş ulgamlary',
+				lesson: 'Maglumat geçiriji torlar we ulgamlar',
 				type: 'umumy',
-				teacher: 'Amanow Atanyýaz',
-				auditory: 3303
+				teacher: 'Abdyýew Juma',
+				auditory: 2207
 			},
 			{
 				id: 2,
-				lesson: 'Programmirlemegiň dilleri we usullary',
-				type: 'amaly',
-				teacher: 'Amanow Söhbet',
-				auditory: 3208
+				lesson: 'Maglumat geçiriji torlar we ulgamlar',
+				type: 'tejribe',
+				teacher: 'Abdyýew Juma',
+				auditory: 2410
 			}
 		],
 		// bottom
 		[
 			{
 				id: 1,
-				lesson: 'Mikroprossorly dolandyryş ulgamlary',
-				type: 'tejribe',
-				teacher: 'Amanow Atanyýaz',
-				auditory: 3303
+				lesson: 'Maglumat geçiriji torlar we ulgamlar',
+				type: 'umumy',
+				teacher: 'Abdyýew Juma',
+				auditory: 2207
 			},
 			{
 				id: 2,
-				lesson: 'Programmirlemegiň dilleri we usullary',
+				lesson: 'Maglumat geçiriji torlar we ulgamlar',
 				type: 'tejribe',
-				teacher: 'Amanow Söhbet',
-				auditory: 3208
+				teacher: 'Abdyýew Juma',
+				auditory: 2410
 			}
 		],
 		'Şenbe'
