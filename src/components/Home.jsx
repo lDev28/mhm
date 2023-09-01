@@ -20,9 +20,9 @@ const Home = () => {
 
 	// TIME-table
 	const time = {
-		firstPair: '8:30 - 9:50',
-		secondPair: '10:00 - 11:30',
-		breakeTime: '9:50 - 10:00'
+		firstPair: '13:30 - 14:50',
+		secondPair: '15:00 - 16:20',
+		breakeTime: '14:50 - 15:00'
 	}
 	return (
 		<div className={styles.root__block}>
