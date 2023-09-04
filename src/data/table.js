@@ -8,14 +8,14 @@ const MHMTable = [
 				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'umumy',
 				teacher: 'Amanow Atanyýaz',
-				auditory: 3307
+				auditory: 2410
 			},
 			{
 				id: 2,
 				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
 				type: 'amaly',
 				teacher: 'Amanow Söhbet',
-				auditory: 2211
+				auditory: 2410
 			}
 		],
 		// bottom
@@ -25,14 +25,14 @@ const MHMTable = [
 				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'umumy',
 				teacher: 'Amanow Atanyýaz',
-				auditory: 3307
+				auditory: 2410
 			},
 			{
 				id: 2,
 				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'tejribe',
 				teacher: 'Amanow Atanyýaz',
-				auditory: 2202
+				auditory: 2410
 			}
 		],
 		'Duşenbe'
@@ -46,14 +46,14 @@ const MHMTable = [
 				lesson: 'Taýýarlygyň ugry boýunça rus dili',
 				type: 'amaly',
 				teacher: 'Saparowa Jahan',
-				auditory: 2404
+				auditory: 3103
 			},
 			{
 				id: 2,
 				lesson: 'Syýasaty öwreniş',
 				type: 'amaly',
 				teacher: 'Gurbanowa Nurgözel',
-				auditory: 2302
+				auditory: 2304
 			}
 		],
 		// bottom
@@ -63,14 +63,14 @@ const MHMTable = [
 				lesson: 'Taýýarlygyň ugry boýunça rus dili',
 				type: 'amaly',
 				teacher: 'Saparowa Jahan',
-				auditory: 2404
+				auditory: 3103
 			},
 			{
 				id: 2,
 				lesson: 'Syýasaty öwreniş',
 				type: 'umumy',
 				teacher: 'Gurbanowa Nurgözel',
-				auditory: 2405
+				auditory: 2410
 			}
 		],
 		'Sişenbe'
@@ -91,7 +91,7 @@ const MHMTable = [
 				lesson: 'Diskret we hasaplaýyş matematikasy',
 				type: 'amaly',
 				teacher: 'Annaberdiýew Şatlyk',
-				auditory: 2107
+				auditory: 2410
 			}
 		],
 		// bottom
@@ -108,7 +108,7 @@ const MHMTable = [
 				lesson: 'Diskret we hasaplaýyş matematikasy',
 				type: 'amaly',
 				teacher: 'Annaberdiýew Şatlyk',
-				auditory: 2107
+				auditory: 2410
 			}
 		],
 		'Çarşenbe'
@@ -160,14 +160,14 @@ const MHMTable = [
 				lesson: 'Maglumat howpsuzlygynyň esaslary',
 				type: 'umumy',
 				teacher: 'Amanow Söhbet',
-				auditory: 2212
+				auditory: 2410
 			},
 			{
 				id: 2,
 				lesson: 'Maglumat howpsuzlygynyň esaslary',
 				type: 'tejribe',
 				teacher: 'Amanow Söhbet',
-				auditory: 3108
+				auditory: 2410
 			}
 		],
 		// bottom
@@ -177,14 +177,14 @@ const MHMTable = [
 				lesson: 'Maglumat howpsuzlygynyň esaslary',
 				type: 'umumy',
 				teacher: 'Amanow Söhbet',
-				auditory: 2212
+				auditory: 2410
 			},
 			{
 				id: 2,
 				lesson: 'Maglumat howpsuzlygynyň esaslary',
 				type: 'tejribe',
 				teacher: 'Amanow Söhbet',
-				auditory: 3108
+				auditory: 2410
 			}
 		],
 		'Anna'
@@ -198,7 +198,7 @@ const MHMTable = [
 				lesson: 'Maglumat geçiriji torlar we ulgamlar',
 				type: 'umumy',
 				teacher: 'Abdyýew Juma',
-				auditory: 2207
+				auditory: 2410
 			},
 			{
 				id: 2,
@@ -215,7 +215,7 @@ const MHMTable = [
 				lesson: 'Maglumat geçiriji torlar we ulgamlar',
 				type: 'umumy',
 				teacher: 'Abdyýew Juma',
-				auditory: 2207
+				auditory: 2410
 			},
 			{
 				id: 2,
