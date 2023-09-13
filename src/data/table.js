@@ -8,14 +8,14 @@ const MHMTable = [
 				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'umumy',
 				teacher: 'Amanow Atanyýaz',
-				auditory: 2410
+				auditory: 3301
 			},
 			{
 				id: 2,
 				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
 				type: 'amaly',
 				teacher: 'Amanow Söhbet',
-				auditory: 2410
+				auditory: 3301
 			}
 		],
 		// bottom
@@ -25,14 +25,14 @@ const MHMTable = [
 				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'umumy',
 				teacher: 'Amanow Atanyýaz',
-				auditory: 2410
+				auditory: 3301
 			},
 			{
 				id: 2,
 				lesson: 'Mikroprosessorly dolandyryş ulgamlar',
 				type: 'tejribe',
 				teacher: 'Amanow Atanyýaz',
-				auditory: 2410
+				auditory: 3301
 			}
 		],
 		'Duşenbe'
@@ -84,7 +84,7 @@ const MHMTable = [
 				lesson: 'Diskret we hasaplaýyş matematikasy',
 				type: 'umumy',
 				teacher: 'Annaberdiýew Şatlyk',
-				auditory: 2107
+				auditory: 2410
 			},
 			{
 				id: 2,
@@ -101,7 +101,7 @@ const MHMTable = [
 				lesson: 'Diskret we hasaplaýyş matematikasy',
 				type: 'umumy',
 				teacher: 'Annaberdiýew Şatlyk',
-				auditory: 2107
+				auditory: 2410
 			},
 			{
 				id: 2,
@@ -122,7 +122,7 @@ const MHMTable = [
 				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
 				type: 'amaly',
 				teacher: 'Amanow Söhbet',
-				auditory: 2408
+				auditory: 2410
 			},
 			{
 				id: 2,
@@ -139,7 +139,7 @@ const MHMTable = [
 				lesson: 'Maglumat goramagyň programma apparatlaýyn serişdeleri',
 				type: 'amaly',
 				teacher: 'Amanow Söhbet',
-				auditory: 2408
+				auditory: 2410
 			},
 			{
 				id: 2,
