@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 158.333px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #1b17d5;
+        font-family: "Bebas Neue";
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 66.667px;
+      }
+
+      .cls-3 {
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <text id="MHM" class="cls-1" transform="matrix(3.495, 0, 0, 3.495, -17.713, 458.258)">MHM</text>
+  <text id="t" class="cls-2" transform="matrix(3.49, 0, 0, 3.49, 2.173, 729.35)">t</text>
+  <text id="E" class="cls-2" transform="matrix(3.49, 0, 0, 3.49, 712.173, 729.35)">E</text>
+  <text id="B" class="cls-3" transform="matrix(3.49, 0, 0, 3.49, 399.173, 729.35)"><tspan x="0">B</tspan></text>
+  <text id="A" class="cls-3" transform="matrix(3.49, 0, 0, 3.49, 221.173, 729.35)"><tspan x="0">A</tspan></text>
+  <text id="L" class="cls-3" transform="matrix(3.49, 0, 0, 3.49, 574.173, 729.35)"><tspan x="0">L</tspan></text>
+</svg>
