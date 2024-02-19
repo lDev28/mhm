@@ -83,14 +83,14 @@ const MHMTable = [
 				id: 1,
 				lesson: 'Signallary işläp taýýarlamak',
 				type: 'umumy',
-				teacher: 'Osmanow M.',
+				teacher: 'Osmanow Muhammetguly',
 				auditory: 3208
 			},
 			{
 				id: 2,
 				lesson: 'Signallary işläp taýýarlamak',
 				type: 'umumy',
-				teacher: 'Osmanow M.',
+				teacher: 'Osmanow Muhammetguly',
 				auditory: 3208
 			}
 		],
@@ -100,14 +100,14 @@ const MHMTable = [
 				id: 1,
 				lesson: 'Signallary işläp taýýarlamak',
 				type: 'umumy',
-				teacher: 'Osmanow M.',
+				teacher: 'Osmanow Muhammetguly',
 				auditory: 3208
 			},
 			{
 				id: 2,
 				lesson: 'Signallary işläp taýýarlamak',
 				type: 'amaly',
-				teacher: 'Osmanow M.',
+				teacher: 'Osmanow Muhammetguly',
 				auditory: 3208
 			}
 		],
@@ -121,7 +121,7 @@ const MHMTable = [
 				id: 1,
 				lesson: 'Signallary işläp taýýarlamak',
 				type: 'tejribe',
-				teacher: 'Osmanow M.',
+				teacher: 'Osmanow Muhammetguly',
 				auditory: 3208
 			},
 			{
@@ -138,7 +138,7 @@ const MHMTable = [
 				id: 1,
 				lesson: 'Signallary işläp taýýarlamak',
 				type: 'tejribe',
-				teacher: 'Osmanow M.',
+				teacher: 'Osmanow Muhammetguly',
 				auditory: 3208
 			},
 			{
