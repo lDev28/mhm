@@ -5,7 +5,7 @@ const MHMTable = [
 		[
 			{
 				id: 1,
-				lesson: 'Maglumat tehnologiýalary',
+				lesson: 'Operational system',
 				type: 'umumy',
 				teacher: 'Amanow Söhbet',
 				auditory: 3309
