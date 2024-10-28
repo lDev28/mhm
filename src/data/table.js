@@ -175,7 +175,7 @@ const MHMTable = [
 			{
 				id: 1,
 				lesson: 'Operasion ulgamlaryň we hasaplaýyş torlaryň howpsuzlygy',
-				type: 'umumy',
+				type: 'tejribe',
 				teacher: 'Ataýew Muhammetnur',
 				auditory: 2408
 			},
